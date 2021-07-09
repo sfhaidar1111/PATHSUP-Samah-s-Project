@@ -1,5 +1,5 @@
 # PATHSUP-Samah-s-Project
-##DBSCAN
+## DBSCAN Model
 dataset = datasets.load_breast_cancer()
 X_data = dataset.data
 y_target = dataset.target
